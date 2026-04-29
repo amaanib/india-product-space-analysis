@@ -1,3 +1,4 @@
+<img width="3315" height="3505" alt="india_in_full_product_space" src="https://github.com/user-attachments/assets/eafe3ccf-0d57-4a09-a040-44ea2b100b01" />
 # India Product Space Analysis 
 
 (full analysis in jupyter notebook)
@@ -17,3 +18,7 @@ The **configuration model test (Z = 47.33)** confirms that India's clustering is
 In the framework of Hidalgo et al. (2007), India's development path is shaped by this structure. **The products most accessible for diversification are those adjacent to the existing garment and textile cluster (synthetic fibres, fabric processing, apparel accessories) or adjacent to the iron/steel community (basic machinery, pipe fittings, castings).** Moving into the dense industrial core of the global Product Space, where machinery, chemicals, and electronics interconnect, would require bridging capability gaps that the current export structure does not easily support.
 
 <img width="3315" height="3505" alt="india_product_space_network" src="https://github.com/user-attachments/assets/afd1bcd6-c157-4c6f-91c0-c2f942da95f5" />
+
+
+<img width="3315" height="3505" alt="india_in_full_product_space" src="https://github.com/user-attachments/assets/f718091b-1a61-49d2-a450-9f9cf58dfef9" />
+
