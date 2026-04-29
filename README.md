@@ -1,4 +1,6 @@
-# India Product Space Analysis (full analysis in jupyter notebook)
+# India Product Space Analysis 
+
+(full analysis in jupyter notebook)
 
 I conduct an analysis of India's product space using Hidalgo et al's (2007) methodology. I come up with the following conclusions:
 
