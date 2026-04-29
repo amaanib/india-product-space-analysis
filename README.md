@@ -1,4 +1,3 @@
-<img width="3315" height="3505" alt="india_in_full_product_space" src="https://github.com/user-attachments/assets/eafe3ccf-0d57-4a09-a040-44ea2b100b01" />
 # India Product Space Analysis 
 
 (full analysis in jupyter notebook)
