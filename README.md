@@ -1,2 +1,15 @@
-# india-product-space-analysis
-Analysis of India's product space using network configuration tools
+# India Product Space Analysis
+
+I conduct an analysis of India's product space using Hidalgo et al's (2007) methodology. I come up with the following conclusions:
+
+India holds RCA ≥ 1 in 273 products, which is 35.3% of the full Product Space, but generates only 19.4% of the edges. This disproportionality signals the key structural challenge: India's competitive products are spread across distant parts of the capability network with limited interconnection between them.
+
+The 91 connected components are the most diagnostic feature of this analysis. The full Product Space is essentially one connected network; India's subgraph is an archipelago. The largest component (141 nodes) contains the garment cluster, some chemicals, and the iron/steel community, forming a partial industrial core. The remaining 132 products are scattered across 90 smaller, disconnected fragments with no capability bridges to the rest of India's basket.
+
+The degree distribution (CV = 1.65, median = 1) confirms extreme heterogeneity. Most products are nearly isolated nodes, while the garment cluster generates the bulk of the connections. The high assortativity (0.80) reflects the tight internal cohesion of that garment core, but equally reflects its disconnection from the rest of the economy. Community structure (102 communities, modularity 0.68) maps onto recognisable sectors: garments and knitwear, iron and steel, industrial machinery, carpets, agricultural staples, gems. The garment community is the largest and densest, while the agricultural and resource communities remain small and peripheral. India does have nascent industrial clusters in machinery and metals, but these are not yet large enough to constitute an integrated industrial core.
+
+Centrality analysis sharpens the picture further. India's degree hubs are finished garments, which are lower-complexity consumer goods, whereas the full Product Space's degree hubs are motor vehicle parts and industrial machinery. India's betweenness bridges are synthetic yarn and iron/steel articles, intermediate inputs that structurally connect the garment core to other communities. These bridge products are strategically important: if India's competitiveness in them were to weaken, the already fragmented subgraph would fracture further.
+
+The configuration model test (Z = 47.33) confirms that India's clustering is real and economically meaningful rather than a statistical artefact. Productive capabilities do genuinely cluster in India's export basket. The challenge is not the absence of clusters but their fragmentation and peripheral position in the global capability network.
+
+In the framework of Hidalgo et al. (2007), India's development path is shaped by this structure. The products most accessible for diversification are those adjacent to the existing garment and textile cluster (synthetic fibres, fabric processing, apparel accessories) or adjacent to the iron/steel community (basic machinery, pipe fittings, castings). Moving into the dense industrial core of the global Product Space, where machinery, chemicals, and electronics interconnect, would require bridging capability gaps that the current export structure does not easily support.
